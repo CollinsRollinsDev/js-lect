@@ -1,0 +1,11 @@
+GET https://jsonplaceholder.typicode.com/users
+Content-Type: application/json
+###
+
+POST https://schoolbackyard.vercel.app/login
+Content-Type: application/json
+
+{
+    "username": "intheblack",
+    "password": "admin"
+}
